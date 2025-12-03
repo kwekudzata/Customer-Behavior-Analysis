@@ -85,8 +85,11 @@ High Spenders
 Top 25%
 
 This enables deeper analysis such as:
+
 Which group visits most?
+
 Which group generates the most revenue?
+
 Which country produces the most high spenders?
 
 
