@@ -5,27 +5,27 @@ This project uses a synthetic dummy dataset (5,000 rows) to simulate real-world 
 
 ## 📝 Overview
 
-This project walks through the complete data analysis workflow:
-Importing and inspecting raw data
-Cleaning (missing values, duplicates, outliers, consistency checks)
-Feature engineering
-Exploratory Data Analysis (EDA)
-Rule-based customer segmentation
-Data visualization using Matplotlib & Seaborn
-Insights & business interpretation
+This project walks through the complete data analysis workflow: <br>
+Importing and inspecting raw data <br>
+Cleaning (missing values, duplicates, outliers, consistency checks) <br>
+Feature engineering <br>
+Exploratory Data Analysis (EDA) <br>
+Rule-based customer segmentation <br>
+Data visualization using Matplotlib & Seaborn <br>
+Insights & business interpretation <br>
 
 ## The dataset includes the following columns:
-customer_id
-age
-gender
-country
-monthly_visits
-amount_spent
-joined_year
+customer_id <br>
+age <br>
+gender <br>
+country <br>
+monthly_visits <br>
+amount_spent <br>
+joined_year <br>
 
 ## 🔧 Technologies Used
-Python 3
-Pandas
-NumPy
-Matplotlib
-Jupyter Notebook
+Python 3 <br>
+Pandas <br>
+NumPy <br>
+Matplotlib <br>
+Jupyter Notebook <br>
